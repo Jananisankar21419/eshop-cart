@@ -6,7 +6,7 @@ const dummyProducts = [
     description: "A white shirt made from high-quality cotton fabric.",
     color: "White",
     size: "M",
-    image: "/images/white_1.webp",
+    image: "/Images/white_1.webp",
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ const dummyProducts = [
     description: "A stylish blue hoodie perfect for casual wear.",
     color: "Blue",
     size: "L",
-    image: "/images/blue_1.webp",
+    image: "/Images/blue_1.webp",
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ const dummyProducts = [
     description: "An elegant green dress suitable for formal events.",
     color: "Green",
     size: "S",
-    image: "/images/green_1.webp",
+    image: "/Images/green_1.webp",
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ const dummyProducts = [
     description: "A warm green jacket to keep you cozy in winter.",
     color: "Green",
     size: "M",
-    image: "/images/green_2.webp",
+    image: "/Images/green_2.webp",
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ const dummyProducts = [
     description: "Comfortable beige pants for everyday use.",
     color: "Beige",
     size: "XL",
-    image: "/images/beige_2.webp",
+    image: "/Images/beige_2.webp",
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ const dummyProducts = [
     description: "A premium white sweater made from wool .",
     color: "White",
     size: "L",
-    image: "/images/white_2.webp",
+    image: "/Images/white_2.webp",
   },
 ];
 
