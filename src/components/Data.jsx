@@ -1,0 +1,58 @@
+const dummyProducts = [
+  {
+    id: 1,
+    name: "Classic White Shirt",
+    price: 25.99,
+    description: "A white shirt made from high-quality cotton fabric.",
+    color: "White",
+    size: "M",
+    image: "/images/white_1.webp",
+  },
+  {
+    id: 2,
+    name: "Stylish Blue Hoodie",
+    price: 30.99,
+    description: "A stylish blue hoodie perfect for casual wear.",
+    color: "Blue",
+    size: "L",
+    image: "/images/blue_1.webp",
+  },
+  {
+    id: 3,
+    name: "Elegant Green Dress",
+    price: 60.99,
+    description: "An elegant green dress suitable for formal events.",
+    color: "Green",
+    size: "S",
+    image: "/images/green_1.webp",
+  },
+  {
+    id: 4,
+    name: "Warm Green Jacket",
+    price: 50.99,
+    description: "A warm green jacket to keep you cozy in winter.",
+    color: "Green",
+    size: "M",
+    image: "/images/green_2.webp",
+  },
+  {
+    id: 5,
+    name: "Casual Beige Pants",
+    price: 40.99,
+    description: "Comfortable beige pants for everyday use.",
+    color: "Beige",
+    size: "XL",
+    image: "/images/beige_2.webp",
+  },
+  {
+    id: 6,
+    name: "Premium White Sweater",
+    price: 60.99,
+    description: "A premium white sweater made from wool .",
+    color: "White",
+    size: "L",
+    image: "/images/white_2.webp",
+  },
+];
+
+export default dummyProducts;
