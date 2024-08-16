@@ -47,7 +47,7 @@ export default function EShop() {
     }
     toast.success(`${product.name} has been added to the cart!`, {
       position: "top-right",
-      autoClose: 1000, // Adjust the duration here if needed
+      autoClose: 1000, 
       hideProgressBar: false,
       closeOnClick: true,
       pauseOnHover: true,
@@ -139,7 +139,7 @@ export default function EShop() {
                     onAddToCart={handleAddToCart}
                   />
                 ))
-              : new Array(12)
+              : new Array(6)
                   .fill(null)
                   .map((_, i) => <ProductSkeleton key={i} />)}
           </ul>
