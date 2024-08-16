@@ -20,7 +20,7 @@ export const metadata = {
   openGraph: {
     title: "e-shop",
     description: "shopping site",
-    url: "https://your-app-url.com",
+    url: "https://e-shopcart.vercel.app",
     image: "/Images/shop.svg",
   },
 };
