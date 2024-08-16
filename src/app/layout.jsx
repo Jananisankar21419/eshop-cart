@@ -21,7 +21,7 @@ export const metadata = {
     title: "e-shop",
     description: "shopping site",
     url: "https://e-shopcart.vercel.app",
-    image: "/Images/shop.svg",
+    image: "/Images/logo.svg",
   },
 };
 
