@@ -9,7 +9,6 @@ const AuthContext = createContext();
 export function AuthProvider({ children }) {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
 
-  // Mock authentication methods
   const login = () => setIsAuthenticated(true);
   const logout = () => setIsAuthenticated(false);
 
