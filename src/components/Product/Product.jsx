@@ -14,7 +14,7 @@ const Product = ({ product, onAddToCart }) => {
           src={product.image}
           alt={product.name}
           layout="fill"
-          className="object-cover object-center"
+          className="object-contain"
           priority
         />
       </div>
