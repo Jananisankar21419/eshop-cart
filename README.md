@@ -1,3 +1,5 @@
+# E-shop
+
 ## Signup
 
 - Username: Joe Gardner
@@ -13,3 +15,7 @@
 
 - React/ Next js using JavaScript
 - TailwindCSS
+
+## Deployment
+
+[Profile fyi Assignment Deployment](https://e-shopcart.vercel.app/)
