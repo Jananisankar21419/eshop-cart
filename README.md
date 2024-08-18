@@ -1,21 +1,21 @@
-# E-shop
+## E-shop
 
-## Signup
+### Signup
 
 - Username: Joe Gardner
 - Email: jgardner@gmail.com
 - Password: 12345678
 
-## Login
+### Login
 
 - Email: jgardner@gmail.com
 - Password: 12345678
 
-## Tech Stack 
+### Tech Stack 
 
 - React/ Next js using JavaScript
 - TailwindCSS
 
-## Deployment
+### Deployment
 
 [Profile fyi Assignment Deployment](https://e-shopcart.vercel.app/)
