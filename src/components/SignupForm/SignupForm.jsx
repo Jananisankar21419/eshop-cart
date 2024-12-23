@@ -94,7 +94,7 @@ const SignupForm = () => {
           </p>
         </div>
              <div className="mt-8 border-t pt-4 text-sm text-center text-[#606060]">
-          <p>Use the following credentials to test:</p>
+{/*           <p>Use the following credentials to test:</p> */}
           <p>
             <strong>Full Name:</strong> hello2000
           </p>
