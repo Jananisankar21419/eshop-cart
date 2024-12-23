@@ -2,13 +2,13 @@
 
 ### Signup
 
-- Username: Joe Gardner
-- Email: jgardner@gmail.com
+- Username: hello2000
+- Email: abcdefgh@gmail.com
 - Password: 12345678
 
 ### Login
 
-- Email: jgardner@gmail.com
+- Email: abcdefgh@gmail.com
 - Password: 12345678
 
 ### Tech Stack 
