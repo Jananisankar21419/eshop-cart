@@ -21,7 +21,7 @@ const LoginForm = () => {
     console.log("Email:", email);
     console.log("Password:", password);
 
-    const dummyEmail = "jgardner@gmail.com";
+    const dummyEmail = "abcdefgh@gmail.com";
     const dummyPassword = "12345678";
 
     if (email === dummyEmail && password === dummyPassword) {
