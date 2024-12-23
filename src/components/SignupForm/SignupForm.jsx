@@ -21,7 +21,7 @@ const SignupForm = () => {
 
     // Dummy credentials for testing
     const dummyFullName = "Joe Gardner";
-    const dummyEmail = "jgardner@gmail.com";
+    const dummyEmail = "abcdefgh@gmail.com";
     const dummyPassword = "12345678";
 
     console.log("Submitted:", { fullName, email, password });
