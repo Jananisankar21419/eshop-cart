@@ -79,6 +79,15 @@ const LoginForm = () => {
             </Link>
           </p>
         </div>
+         <div className="mt-8 border-t pt-4 text-sm text-center text-[#606060]">
+          <p>Use the following credentials to test:</p>
+          <p>
+            <strong>Email:</strong> abcdefgh@gmail.com
+          </p>
+          <p>
+            <strong>Password:</strong> 12345678
+          </p>
+        </div>
       </div>
     </div>
   );
