@@ -20,7 +20,7 @@ const SignupForm = () => {
     event.preventDefault();
 
     // Dummy credentials for testing
-    const dummyFullName = "Joe Gardner";
+    const dummyFullName = "hello2000";
     const dummyEmail = "abcdefgh@gmail.com";
     const dummyPassword = "12345678";
 
